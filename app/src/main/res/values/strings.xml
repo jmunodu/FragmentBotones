@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">FragmentBotones</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_red_fragment">Hello Red fragment</string>
+    <string name="hello_blue_fragment">Hello Blue fragment</string>
+    <string name="hello_yellow_fragment">Hello Yellow fragment</string>
+    <string name="btn_yellow">Amarillo</string>
+    <string name="btn_red">Rojo</string>
+    <string name="btn_blue">Azul</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
